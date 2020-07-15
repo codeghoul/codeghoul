@@ -21,7 +21,7 @@
   <img align="left" alt="Jayesh Patel | Reddit" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-<br />
+&nbsp;
 
 - 🔭 I’m currently working on Spring Framework & React.js
 - 🌱 I’m currently learning Docker & Linux
