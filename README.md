@@ -46,6 +46,4 @@
 
 <img align="left" alt="codeghoul's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeghoul&show_icons=true&hide_border=true&count_private=true&theme=graywhite" />
 
----
-
 ![](https://visitor-badge.glitch.me/badge?page_id=codeghoul.codeghoul)
