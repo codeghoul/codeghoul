@@ -32,4 +32,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a CS degree!
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![](https://visitor-badge.glitch.me/badge?page_id=codeghoul.codeghoul)
