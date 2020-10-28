@@ -32,10 +32,20 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a CS degree!
 
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [JS Arrow Functions: What, How & When.](https://dev.to/jysh/js-arrow-functions-what-how-when-4a2m)
 - [Let’s get started with Spring Boot Docker Image Creation.](https://dev.to/jysh/let-s-get-started-with-spring-boot-docker-image-creation-4eke)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### :zap: GitHub Stats
+
+<img align="left" alt="codeghoul's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeghoul&show_icons=true&hide_border=true&count_private=true&theme=graywhite" />
+
+---
 
 ![](https://visitor-badge.glitch.me/badge?page_id=codeghoul.codeghoul)
