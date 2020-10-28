@@ -44,6 +44,6 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" alt="codeghoul's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeghoul&show_icons=true&hide_border=true&count_private=true&theme=graywhite" />
+<img align="left" alt="codeghoul's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeghoul&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=codeghoul.codeghoul)
