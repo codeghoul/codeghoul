@@ -32,7 +32,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a CS degree!
 
-### Blog posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [JS Arrow Functions: What, How & When.](https://dev.to/jysh/js-arrow-functions-what-how-when-4a2m)
 - [Let’s get started with Spring Boot Docker Image Creation.](https://dev.to/jysh/let-s-get-started-with-spring-boot-docker-image-creation-4eke)
