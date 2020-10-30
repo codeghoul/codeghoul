@@ -30,8 +30,7 @@
 - 💬 Ask me about Spring Framework, React.js, Gatsby, Github Actions, Anime, Books
 - 📫 How to reach me: jayesh.patel.2197@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a CS degree!
-
+- ⚡ Fun fact: My github username is inspired by a One Piece anime character 🎸.
 ---
 
 ### 📕 Latest Blog Posts
