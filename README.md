@@ -1,45 +1,36 @@
-## Hey 👋🏽, I'm [Jayesh!](https://www.jysh.me) 
-<a href="https://twitter.com/j_y_sh">
-  <img align="left" alt="Jayesh Patel | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jysh/">
-  <img align="left" alt="Jayesh Patel | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://dev.to/jysh">
-  <img align="left" alt="Jayesh Patel | Dev.to" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a href="https://medium.com/@jysh">
-  <img align="left" alt="Jayesh Patel | Medium" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://leetcode.com/jysh/">
-  <img align="left" alt="Jayesh Patel | Leetcode" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.instagram.com/j_y_sh/">
-  <img align="left" alt="Jayesh Patel | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/me_jysh">
-  <img align="left" alt="Jayesh Patel | Reddit" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+## Hey there, I'm Jayesh 👋
 
-&nbsp;
+I'm a Senior Software Engineer with a passion for developing innovative solutions that make business operations smoother and more efficient. But when I'm not writing code, you can usually find me behind a camera 📷, on a hiking trail 🏔️, or planning my next adventure ✈️. I love photography, hiking, and traveling, and I'm always up for a good conversation about any of these topics.
 
-- 🔭 I’m currently working on Spring Framework & React.js
-- 🌱 I’m currently learning Docker & Linux
-- 👯 I’m looking to collaborate on just about anything, on weekends though!
-- 🤔 I’m looking for help with Open Source Contribution, Data Structures & Algorithms!
-- 💬 Ask me about Spring Framework, React.js, Gatsby, Github Actions, Anime, Books
-- 📫 How to reach me: jayesh.patel.2197@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My github username is inspired by an anime called Tokyo Ghoul.
----
+### 🚀 My recent achievements
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [JS Arrow Functions: What, How & When.](https://dev.to/jysh/js-arrow-functions-what-how-when-4a2m)
-- [Let’s get started with Spring Boot Docker Image Creation.](https://dev.to/jysh/let-s-get-started-with-spring-boot-docker-image-creation-4eke)
-<!-- BLOG-POST-LIST:END -->
+Of course, I'm also pretty proud of what I've been able to achieve in my career:
 
----
+- Designed and developed a highly extensible shipment batching solution, resulting in a 90% reduction in manual efforts and a complete elimination of third-party routing costs
+- Architected and developed an in-house routing and optimization engine, resulting in a 75% reduction in delivery planning time and improved logistics capabilities
+- Developed a capability for Mid-Mile consignments that resulted in a 60% increase in on-time deliveries and improved the company's logistics capabilities
 
-### :zap: GitHub Stats
-![](https://visitor-badge.glitch.me/badge?page_id=codeghoul.codeghoul)
+### 💻 My technical skills
+
+- 🚀 Programming Languages: Java, Golang, JavaScript, Python, HTML, CSS  
+- 📦 Libraries & Frameworks: Spring Boot, OSRM, VROOM, Node.js, React.js, Next.js, Redux, Spring Webflux, Three.js  
+- ☁️ Cloud Technologies: Amazon AWS, Docker, Kubernetes  
+- 🔍 Monitoring and Logging: New Relic, Grafana, AWS Cloudwatch  
+- 🗃️ Databases: MySQL, PostgreSQL, MongoDB, ElasticSearch, Couchbase  
+- 📚 Others: Git, Redis, Kafka, SQS, SNS, Jenkins, Nginx, API Design
+
+### 🌐 Connect with me
+
+Want to chat about tech, photography, hiking, or travel? I'm always up for a good conversation! You can connect with me online:
+
+- 👨‍💼 LinkedIn: https://www.linkedin.com/in/j_y_sh/
+- 🐦 Twitter: https://twitter.com/j_y_sh
+- 🧩 LeetCode: https://leetcode.com/jysh/
+
+You can also shoot me an email at jayesh.patel.2197@gmail.com or give me a call at +91 79740 47960. Let's talk about the next mountain we're going to climb! 
+
+### 🎓 Education
+
+- B.E in Computer Science and Engineering from Bhilai Institute of Technology (2015-2019)
+
+Thanks for stopping by, and I hope to hear from you soon!
