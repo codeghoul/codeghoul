@@ -23,9 +23,9 @@ Of course, I'm also pretty proud of what I've been able to achieve in my career:
 
 Want to chat about tech, photography, hiking, or travel? I'm always up for a good conversation! You can connect with me online:
 
-- 👨‍💼 LinkedIn: https://www.linkedin.com/in/j_y_sh/
-- 🐦 Twitter: https://twitter.com/j_y_sh
-- 🧩 LeetCode: https://leetcode.com/jysh/
+- 👨‍💼 LinkedIn: [https://www.linkedin.com/in/j_y_sh/](https://www.linkedin.com/in/jysh/)
+- 🐦 Twitter: [https://twitter.com/j_y_sh](https://twitter.com/j_y_sh)
+- 🧩 LeetCode: [https://leetcode.com/jysh/](https://leetcode.com/jysh/)
 
 You can also shoot me an email at jayesh.patel.2197@gmail.com or give me a call at +91 79740 47960. Let's talk about the next mountain we're going to climb! 
 
